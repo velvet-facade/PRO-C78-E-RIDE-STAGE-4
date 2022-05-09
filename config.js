@@ -1,5 +1,4 @@
 import firebase from "firebase";
-require("@firebase/firestore");
 
 //Paste your firebaseConfig here
 const firebaseConfig = {
